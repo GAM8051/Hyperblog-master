@@ -1,0 +1,4 @@
+#Se usa para crear una lista de archivos que se van a ignorar
+
+*.jpg
+
